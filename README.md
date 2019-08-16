@@ -7,6 +7,7 @@
 - 动态菜单，通过菜单管理统一管理访问路由
 - 视图控件可设置权限保护，通过角色管理分配权限
 - 演示地址：http://kem.gitee.io/mango-admin-vue (账号密码：admin/123456)
+- 由于演示环境部署到gitee Pages服务，刷新页面会出现404错误，属于正常现象
 ![登录页面](https://images.gitee.com/uploads/images/2019/0815/170700_4055bf04_547845.jpeg "QQ浏览器截图20190815150158(1).jpg")
 ![系统首页](https://images.gitee.com/uploads/images/2019/0815/170758_732bcce6_547845.png "QQ浏览器截图20190815150316.png")
 
