@@ -40,7 +40,7 @@
               <Button @click="handleSubmit" type="primary" long>登录</Button>
             </FormItem>
           </Form>
-          <!-- <p class="login-tip">输入任意用户名和密码即可</p> -->
+          <p class="login-tip">测试账号<br>户名：admin  密码：123456</p>
         </div>
       </Card>
     </div>
@@ -76,8 +76,8 @@ export default {
     };
     return {
       form: {
-        username: "root",
-        password: "123456",
+        username: "",
+        password: "",
         captcha: "",
         session: ""
       },
